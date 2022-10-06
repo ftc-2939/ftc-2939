@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ftc-2939
+- 🌱 I’ve been created by @j-calvert to be used on a shared laptop for programming the robot for team FTC-2939's entry in FTC Powerplay 2022
