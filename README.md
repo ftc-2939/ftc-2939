@@ -4,10 +4,12 @@
 ## Software Development Environment Setup
 
 Here are the steps to set up a development environment
-- Get a laptop.  As of this writing, I have one called DESKTOP-TKMD55DT that I'm using for this team.
-- Install Android Studio, use defaults for everything
+- Get a laptop.  
+  As of this writing, I have one called DESKTOP-TKMD55DT that I'm using for this team.
+- Install Android Studio, choose defaults for everything
 - Install Github Desktop
-- Create this Github user
+- Create Github user
+  This is the account of the user I created for this team
 
 
 
